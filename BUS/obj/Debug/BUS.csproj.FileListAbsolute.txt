@@ -1,0 +1,9 @@
+C:\Users\WINUIT\documents\visual studio 2013\Projects\QLTTAN\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\bin\Debug\BUS.dll
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\bin\Debug\BUS.pdb
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\bin\Debug\DAO.dll
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\bin\Debug\DTO.dll
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\bin\Debug\DAO.pdb
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\bin\Debug\DTO.pdb
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\obj\Debug\BUS.dll
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\BUS\obj\Debug\BUS.pdb

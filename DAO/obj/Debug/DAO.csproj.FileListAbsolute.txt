@@ -1,0 +1,7 @@
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\DAO\bin\Debug\DAO.dll
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\DAO\bin\Debug\DAO.pdb
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\DAO\bin\Debug\DTO.dll
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\DAO\bin\Debug\DTO.pdb
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\DAO\obj\Debug\DAO.dll
+C:\Users\WINUIT\Documents\Visual Studio 2013\Projects\QLTTAN\DAO\obj\Debug\DAO.pdb
