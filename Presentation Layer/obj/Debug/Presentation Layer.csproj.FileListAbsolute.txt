@@ -7,3 +7,6 @@ E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.Generate
 E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.exe
 E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.pdb
 E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+E:\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.pdb
